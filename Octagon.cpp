@@ -60,6 +60,7 @@ void Octagon::printSpaces(int numOfSpaces) {
 		cout << " ";
 	}
 }
+
 void Octagon::printStars(int numOfStars) {
 	for (int i = 0; i < numOfStars; i += 1) {
 		cout << "*";
